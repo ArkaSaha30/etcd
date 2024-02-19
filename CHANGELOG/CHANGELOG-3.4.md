@@ -8,6 +8,8 @@ Previous change logs can be found at [CHANGELOG-3.3](https://github.com/etcd-io/
 
 ### Package `clientv3`
 - Add [client backoff and retry config options](https://github.com/etcd-io/etcd/pull/17369).
+
+### Go
 - [Make CGO_ENABLED configurable](https://github.com/etcd-io/etcd/pull/17422).
 
 ### Dependencies
