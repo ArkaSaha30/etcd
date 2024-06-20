@@ -9,6 +9,5 @@ WORKDIR /var/etcd/
 WORKDIR /var/lib/etcd/
 
 EXPOSE 2379 2380
-
 # Define default command.
 CMD ["/usr/local/bin/etcd"]
